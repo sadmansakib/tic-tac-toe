@@ -2,7 +2,7 @@
 
 A REST API application for a game of tic-tac-toe built with Spring Boot and MongoDB as its database
 
-Base URL: `https://tic-tac-toe-api-sadman.herokuapp.com`
+Base URL: `https://tic-tac-toe-api-sadman.herokuapp.com` <br>
 Base URL for API: `https://tic-tac-toe-api-sadman.herokuapp.com/api/v1/tictactoe`
 
 ## Project Structure
