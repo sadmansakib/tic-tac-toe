@@ -131,3 +131,7 @@ src
     "status": "UP"
   }
   ```
+
+## Future work
+
+Add more APIs for stats. Might add suggestion for next move.
